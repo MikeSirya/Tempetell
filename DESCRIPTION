@@ -1,0 +1,21 @@
+Package: Tempetell
+Title: This package provides twenty of the closest weather stations
+        with weather data and it also provides a weather station map
+        with markers for temperature reading at each station
+Version: 0.0.0.9000
+Authors@R: 
+    person("Michael", "Sirya", , "mikesirya@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: httr, jsonlite, leaflet
+Suggests: knitr, rmarkdown, testthat (>= 3.0.0)
+Config/testthat/edition: 3
+VignetteBuilder: knitr
+NeedsCompilation: no
+Packaged: 2023-08-13 09:05:09 UTC; HP
+Author: Michael Sirya [aut, cre] (YOUR-ORCID-ID)
+Maintainer: Michael Sirya <mikesirya@gmail.com>
