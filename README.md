@@ -18,7 +18,7 @@ Then install the package from GitHub (if hosted there):
 install.packages("devtools")
 
 # Install the package
-devtools::install_github("yourusername/Tempetell")
+devtools::install_github("MikeSirya/Tempetell")
 ```
 
 ## Usage
@@ -70,4 +70,4 @@ This warning is due to API responses containing non-ASCII characters.
 ## License
 This package is open-source and distributed under the MIT License.
 
-You can view the package vignette [here](https://mikesirya.github.io/Tempetell/vignettes/Weather_package.html)
+You can view the package vignette [here](https://MikeSirya.github.io/Tempetell/vignettes/Weather_package.html)
